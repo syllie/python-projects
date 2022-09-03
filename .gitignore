@@ -1,3 +1,9 @@
+# local image folders
+ztm-209-212-image-playground/input
+ztm-209-212-image-playground/output
+ztm-209-212-image-playground/pokedex
+ztm-209-212-image-playground/new
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
