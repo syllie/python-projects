@@ -4,6 +4,9 @@ ztm-209-212-image-playground/output
 ztm-209-212-image-playground/pokedex
 ztm-209-212-image-playground/new
 
+# datasource
+kl.csv
+
 .vscode/
 
 # Byte-compiled / optimized / DLL files
